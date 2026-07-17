@@ -25,14 +25,16 @@ No data leaves your device.
 
 4. Third-Party Services
 This app does not use any third-party services, analytics, or advertising.
+Access to app tracking transparency (ATT) is exclusively to report permission
+status.
 
-5. Children's Privacy
+6. Children's Privacy
 This app is not intended for children under 13. We do not knowingly collect 
 data from children.
 
-6. Changes to This Policy
+7. Changes to This Policy
 We may update this privacy policy. You will be notified of changes by updating 
 the "Last Updated" date above.
 
-7. Contact
-For questions about this privacy policy, contact: [your email]
+8. Contact
+For questions about this privacy policy, contact: rupee_divas6m@icloud.com
